@@ -1,0 +1,15 @@
+# Documentação do Desenvolvimento
+
+## Desafios Enfrentados
+- **Gerenciamento de versões**: Foi difícil manter a organização dos arquivos durante as mudanças iniciais, mas o uso de branches ajudou a segmentar cada parte do projeto.
+- **Design responsivo**: Ajustar a página para dispositivos móveis foi um desafio, mas o uso de media queries no CSS resolveu o problema.
+
+## Como o Git Ajudou
+- Permitiu a criação de branches separadas para cada funcionalidade, evitando conflitos no código.
+- Os commits frequentes facilitaram a identificação de erros em versões anteriores.
+- O sistema de merge garantiu que as funcionalidades fossem integradas de forma organizada.
+
+## Próximos Passos
+- Implementar novas receitas.
+- Melhorar a responsividade para tablets.
+- Criar uma seção de comentários para interação com os usuários.
