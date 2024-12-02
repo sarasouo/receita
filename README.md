@@ -8,6 +8,6 @@ Este projeto tem como objetivo criar um site simples e funcional para apresentar
    - Exibição de imagem da receita.
    - Listagem de ingredientes e instruções detalhadas.
 2. **Sistema de navegação**:
-   - Links para outras receitas (se aplicável).
+   - Links para outra receita.
 3. **Design responsivo**:
    - Compatível com dispositivos móveis e desktop.
