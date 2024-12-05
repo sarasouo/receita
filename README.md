@@ -1,4 +1,4 @@
-** Site de Receita**
+**Site de Receita**
 
 *Objetivos do Projeto*
 
