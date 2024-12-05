@@ -1,8 +1,8 @@
-Site de Receita
-Objetivos do Projeto
+**Site de Receita**
+*Objetivos do Projeto*
 Este projeto tem como objetivo criar um site simples e funcional para apresentar receitas culinárias, com foco em facilidade de uso e design responsivo.
 
-Funcionalidades Planejadas
+- Funcionalidades Planejadas
 Página de receita:
 
 Exibição de imagem da receita.
